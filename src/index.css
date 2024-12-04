@@ -1,0 +1,11 @@
+/* background-color: #242424; */
+/* font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; */
+/* color-scheme: light dark; */
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
