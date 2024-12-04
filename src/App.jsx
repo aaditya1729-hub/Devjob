@@ -5,7 +5,7 @@ import { Route, createBrowserRouter, createRoutesFromElements, RouterProvider } 
 // import HomeCards from './Components/HomeCards'
 // import JobListings from './Components/JobListings'
 // import ViewAllJobs from './Components/ViewAllJobs'
-import MainLayout from './Layouts/MainLayout';
+import MainLayout from './Layout/MainLayout';
 import HomePage from './Pages/HomePage';
 import JobsPage from './Pages/JobsPage'
 import NotFound from './Pages/NotFound'
